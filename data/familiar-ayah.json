@@ -1,0 +1,303 @@
+{
+  "schema_version": 2,
+  "description": "Curated familiar/context labels for display only. These labels do not alter Quran text, numbering, matching, similarity scores, or learned recognition.",
+  "records": [
+    {
+      "id": "2:255",
+      "scope": {
+        "type": "single_ayah",
+        "start": "2:255",
+        "end": "2:255"
+      },
+      "display_en": "Ayat al-Kursi",
+      "display_bn": "আয়াতুল কুরসি",
+      "arabic_name": "آية الكرسي",
+      "classification": "established_traditional",
+      "aliases_en": [
+        "The Throne Verse"
+      ],
+      "sources": [
+        "https://sunnah.com/muslim:810"
+      ]
+    },
+    {
+      "id": "2:285-286",
+      "scope": {
+        "type": "range",
+        "start": "2:285",
+        "end": "2:286"
+      },
+      "display_en": "Last two Ayat of Al-Baqarah",
+      "display_bn": "সূরা আল-বাকারার শেষ দুই আয়াত",
+      "arabic_name": "خواتيم سورة البقرة",
+      "classification": "prophetic_descriptor",
+      "aliases_en": [
+        "Amanar Rasulu",
+        "Āmanar-Rasūlu"
+      ],
+      "alias_classification": "regional_popular",
+      "sources": [
+        "https://sunnah.com/bukhari:5009",
+        "https://quranhabit.com/en/ayat/last-two-verses-of-al-baqarah/"
+      ]
+    },
+    {
+      "id": "21:87",
+      "scope": {
+        "type": "single_ayah_with_named_fragment",
+        "start": "21:87",
+        "end": "21:87"
+      },
+      "display_en": "Dua of Prophet Yunus",
+      "display_bn": "নবী ইউনুস (আ.)-এর দোয়া",
+      "arabic_name": "دعاء ذي النون",
+      "classification": "quranic_context_descriptor",
+      "aliases_en": [
+        "Ayat-e-Karima",
+        "Ayat-e-Kareema"
+      ],
+      "alias_classification": "regional_popular",
+      "sources": [
+        "https://quranhabit.com/en/ayat/dua-of-yunus/"
+      ]
+    },
+    {
+      "id": "24:35",
+      "scope": {
+        "type": "single_ayah",
+        "start": "24:35",
+        "end": "24:35"
+      },
+      "display_en": "Ayat an-Nur",
+      "display_bn": "আয়াতুন নূর",
+      "arabic_name": "آية النور",
+      "classification": "common_scholarly_traditional",
+      "aliases_en": [
+        "The Light Verse"
+      ],
+      "sources": [
+        "https://academic.oup.com/edited-volume/34388/chapter/291624313",
+        "https://www.khanacademy.org/humanities/art-islam/chronological-periods-islamic/islamic-art-medieval/a/a-glass-lamp-illuminating-sultan-hassans-mosque-madrasa"
+      ]
+    },
+    {
+      "id": "2:282",
+      "scope": {
+        "type": "single_ayah",
+        "start": "2:282",
+        "end": "2:282"
+      },
+      "display_en": "Ayat al-Dayn",
+      "display_bn": "আয়াতুদ দায়ন",
+      "arabic_name": "آية الدين",
+      "classification": "common_scholarly_juristic",
+      "aliases_en": [
+        "Verse of Debt",
+        "Ayat al-Mudayanah"
+      ],
+      "sources": [
+        "https://www.jstor.org/stable/j.ctvk8w1ww",
+        "https://www.ajis.org/index.php/ajiss/article/view/2329"
+      ]
+    },
+    {
+      "id": "3:61",
+      "scope": {
+        "type": "single_ayah",
+        "start": "3:61",
+        "end": "3:61"
+      },
+      "display_en": "Ayat al-Mubahalah",
+      "display_bn": "আয়াতুল মুবাহালা",
+      "arabic_name": "آية المباهلة",
+      "classification": "common_historical_traditional",
+      "aliases_en": [
+        "Verse of Mubahala"
+      ],
+      "sources": [
+        "https://quran.com/3:61",
+        "https://hurqalya.ucmerced.edu/node/101"
+      ]
+    },
+    {
+      "id": "2:201",
+      "scope": {
+        "type": "single_ayah",
+        "start": "2:201",
+        "end": "2:201"
+      },
+      "display_en": "Rabbana Atina",
+      "display_bn": "রব্বানা আতিনা",
+      "arabic_name": "رَبَّنَا آتِنَا",
+      "classification": "prophetic_usage_popular_opening",
+      "aliases_en": [
+        "Dua for good in this world and the Hereafter"
+      ],
+      "alias_classification": "descriptive",
+      "sources": [
+        "https://sunnah.com/bukhari/80/84",
+        "https://quran.com/2/201",
+        "https://quran.com/duas/everyday-duas"
+      ]
+    },
+    {
+      "id": "7:23",
+      "scope": {
+        "type": "single_ayah",
+        "start": "7:23",
+        "end": "7:23"
+      },
+      "display_en": "Dua of Prophet Adam and Hawwa",
+      "display_bn": "আদম ও হাওয়া (আ.)-এর দোয়া",
+      "arabic_name": null,
+      "classification": "quranic_context_descriptor",
+      "aliases_en": [
+        "Rabbana Zalamna Anfusana"
+      ],
+      "alias_classification": "popular_opening_phrase",
+      "sources": [
+        "https://quran.com/duas/adam-hawwa",
+        "https://quran.com/7/23",
+        "https://quran.com/duas/everyday-duas"
+      ]
+    },
+    {
+      "id": "17:24",
+      "scope": {
+        "type": "single_ayah_with_named_fragment",
+        "start": "17:24",
+        "end": "17:24"
+      },
+      "display_en": "Dua for Parents",
+      "display_bn": "পিতা-মাতার জন্য দোয়া",
+      "arabic_name": null,
+      "classification": "quranic_direct_instruction_descriptor",
+      "aliases_en": [
+        "Rabbir Hamhuma"
+      ],
+      "alias_classification": "popular_opening_phrase",
+      "sources": [
+        "https://quran.com/17/24",
+        "https://quran.com/duas/parents",
+        "https://quran.com/duas/everyday-duas"
+      ]
+    },
+    {
+      "id": "20:25-28",
+      "scope": {
+        "type": "range",
+        "start": "20:25",
+        "end": "20:28"
+      },
+      "display_en": "Musa’s Dua for Ease and Clear Speech",
+      "display_bn": "মূসা (আ.)-এর কাজ সহজ ও কথা স্পষ্ট হওয়ার দোয়া",
+      "arabic_name": null,
+      "classification": "quranic_context_descriptor",
+      "aliases_en": [
+        "Rabbi Ishrah Li Sadri"
+      ],
+      "alias_classification": "popular_opening_phrase",
+      "sources": [
+        "https://quran.com/20/25-28",
+        "https://quran.com/duas/knowledge",
+        "https://quran.com/duas/prophet-musa"
+      ]
+    },
+    {
+      "id": "20:114",
+      "scope": {
+        "type": "single_ayah_with_named_fragment",
+        "start": "20:114",
+        "end": "20:114"
+      },
+      "display_en": "Dua for Knowledge",
+      "display_bn": "জ্ঞান বৃদ্ধির দোয়া",
+      "arabic_name": null,
+      "classification": "quranic_direct_instruction_descriptor",
+      "aliases_en": [
+        "Rabbi Zidni Ilma"
+      ],
+      "alias_classification": "popular_opening_phrase",
+      "sources": [
+        "https://quran.com/20/114",
+        "https://quran.com/duas/knowledge",
+        "https://quran.com/duas/everyday-duas"
+      ]
+    },
+    {
+      "id": "28:24",
+      "scope": {
+        "type": "single_ayah_with_named_fragment",
+        "start": "28:24",
+        "end": "28:24"
+      },
+      "display_en": "Musa’s Dua for Rizq and Need",
+      "display_bn": "রিযিক ও প্রয়োজনের জন্য মূসা (আ.)-এর দোয়া",
+      "arabic_name": null,
+      "classification": "quranic_context_descriptor",
+      "aliases_en": [
+        "Rabbi Inni Lima Anzalta"
+      ],
+      "alias_classification": "popular_opening_phrase",
+      "sources": [
+        "https://quran.com/duas/rabbi-inni-lima-anzalta",
+        "https://quran.com/28/24",
+        "https://quran.com/duas/everyday-duas"
+      ]
+    },
+    {
+      "id": "25:74",
+      "scope": {
+        "type": "single_ayah_with_named_fragment",
+        "start": "25:74",
+        "end": "25:74"
+      },
+      "display_en": "Dua for a Righteous Family",
+      "display_bn": "সৎ পরিবার ও সন্তানের জন্য দোয়া",
+      "arabic_name": null,
+      "classification": "quranic_context_descriptor",
+      "aliases_en": [
+        "Rabbana Hablana"
+      ],
+      "alias_classification": "popular_opening_phrase",
+      "sources": [
+        "https://quran.com/25/74",
+        "https://quran.com/duas/daily-life",
+        "https://quran.com/duas/family"
+      ]
+    },
+    {
+      "id": "21:83",
+      "scope": {
+        "type": "single_ayah_with_named_fragment",
+        "start": "21:83",
+        "end": "21:83"
+      },
+      "display_en": "Dua of Prophet Ayyub",
+      "display_bn": "আইয়ুব (আ.)-এর দোয়া",
+      "arabic_name": null,
+      "classification": "quranic_context_descriptor",
+      "aliases_en": [],
+      "sources": [
+        "https://quran.com/duas/prophet-ayyub",
+        "https://quran.com/21/83"
+      ]
+    },
+    {
+      "id": "18:10",
+      "scope": {
+        "type": "single_ayah",
+        "start": "18:10",
+        "end": "18:10"
+      },
+      "display_en": "Dua of the People of the Cave",
+      "display_bn": "আসহাবে কাহফের দোয়া",
+      "arabic_name": null,
+      "classification": "quranic_context_descriptor",
+      "aliases_en": [],
+      "sources": [
+        "https://quran.com/18/10"
+      ]
+    }
+  ]
+}
